@@ -9,7 +9,7 @@ Fill out all of the `TODO`s in this file.
 
 ## SUBMISSION DETAILS
 
-Name: **TODO** \
+Name: **Muhammad Rizki Saputra** \
 SUNet ID: **TODO** \
 Citations: **TODO**
 
